@@ -1,0 +1,46 @@
+{
+  "routinesteps": [
+    {
+      "id": 1,
+      "title": "WASH HANDS",
+      "body": "Put soap on your palms and wash hands for atleast 30 seconds",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "title": "CLEANSE",
+      "body": "Put your cleanser in your palms and massage face for atleast 60 secs",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "title": "TONE",
+      "body": "Put your toner in your palms and massage face for atleast 60 secs",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "title": "SERUM",
+      "body": "Put your serum in your palms and massage face for atleast 60 secs",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "title": "MOISTURIZE",
+      "body": "Put your moisturizer in your palms and massage face for atleast 60 secs",
+      "reminder": true
+    },
+    {
+      "title": "OIL CLEANSE",
+      "body": "Add a dime size of your oil cleanser and rub in your palm to warm it up and massage your face for 60 seconds atleast. ",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "title": "OIL CLEANSING",
+      "body": "Add a dime size of your favourite oil cleanser to your palm rub the palms to warm it up and use that to massage the face for atleast 60 seconds once a week.",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
